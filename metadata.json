@@ -1,0 +1,6 @@
+{
+  "name": "Resello Hub",
+  "description": "Multi-role Reseller & Seller Commerce Platform with profit margin customization, order tracking, admin approval, and automated payout balance ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
